@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dr. Ambreen (Amber) Khan, MBBS
 
-## Physician • Public Health Professional • Data Analytics Engineer
+## Physician • Public Health Professional • Environmental Analytics • Data Analytics Engineer
 
 I am a physician (MBBS) pursuing a **Master of Science in Data Analytics Engineering** at Northeastern University, with graduate degrees in **Public Health (MPH)**and **Business Administration (MBA)**.
 
